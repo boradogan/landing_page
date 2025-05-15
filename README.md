@@ -25,11 +25,13 @@ This is the **Landing Page Project** for [The Odin Project](https://www.theodinp
 
 ```
 landing_page/
-├── css/
-│   └── styles.css
+├── reference_images/
+│   ├── colors-fonts.png
+│   ├── design.png
 ├── images/
-│   └── (project images)
+│   └── odin.png
 ├── index.html
+├── styles.css
 └── README.md
 ```
 
