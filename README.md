@@ -21,18 +21,6 @@ This is the **Landing Page Project** for [The Odin Project](https://www.theodinp
 - **CSS3**
 - **Flexbox**
 
-## Getting Started
-
-1. Clone this repository:
-    ```bash
-    git clone https://github.com/your-username/landing-page.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd landing-page
-    ```
-3. Open `index.html` in your browser to view the landing page.
-
 ## Project Structure
 
 ```
